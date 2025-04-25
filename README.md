@@ -58,10 +58,6 @@
     }
 
     audio {
-    <audio autoplay loop>
-  <source src="https://archive.org/download/a-thousand-years-christina-perri/A%20thousand%20years%20Christina%20Perri.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
       display: none;
     }
   </style>
@@ -69,7 +65,7 @@
 <body>
 
   <audio autoplay loop>
-    <source src="https://www.bensound.com/bensound-music/bensound-romantic.mp3" type="audio/mpeg">
+    <source src="https://archive.org/download/a-thousand-years-christina-perri/A%20thousand%20years%20Christina%20Perri.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
 
